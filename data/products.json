@@ -1,0 +1,20 @@
+[
+  {
+    "name": "short",
+    "price": "150",
+    "countInStock": "10",
+    "image": "https://contents.mediadecathlon.com/p2197356/20ec45d54c1ff25c1d2a554ad65cd203/p2197356.jpg",
+    "description": "good short ",
+    "category": "fashion",
+    "_id": "1709134105759",
+    "reviews": [
+      {
+        "name": "admin",
+        "userid": 1,
+        "rating": 3,
+        "comment": "ok"
+      }
+    ],
+    "rating": 3
+  }
+]
