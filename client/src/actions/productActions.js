@@ -32,56 +32,44 @@ export const getProductById = (productid) => (dispatch) => {
 };
 
 
-export const filterProducts=(searchKey , sortKey , category)=>dispatch=>{
+export const filterProducts = (searchKey, sortKey, category) => dispatch => {
+  dispatch({ type: 'GET_PRODUCTS_REQUEST' });
 
+  axios.get('/api/products/getallproducts')
+      .then(res => {
+          let filteredProducts = res.data;
 
-    var filteredproducts ;
-    dispatch({type:'GET_PRODUCTS_REQUEST'})
+          if (searchKey) {
+              filteredProducts = filteredProducts.filter(product => product.name.toLowerCase().includes(searchKey));
+          }
 
-    axios.get('/api/products/getallproducts').then(res=>{
+          if (sortKey !== 'popular') {
+              if (sortKey === 'htl') {
+                  filteredProducts.sort((a, b) => {
+                      const priceA = parseFloat(a.price.replace(/,/g, ''));
+                      const priceB = parseFloat(b.price.replace(/,/g, ''));
+                      return priceB - priceA; // High to Low
+                  });
+              } else if (sortKey === 'lth') {
+                  filteredProducts.sort((a, b) => {
+                      const priceA = parseFloat(a.price.replace(/,/g, ''));
+                      const priceB = parseFloat(b.price.replace(/,/g, ''));
+                      return priceA - priceB; // Low to High
+                  });
+              }
+          }
 
-        filteredproducts = res.data      
+          if (category !== 'all') {
+              filteredProducts = filteredProducts.filter(product => product.category.toLowerCase().includes(category));
+          }
 
-        if(searchKey)
-        {
-             filteredproducts = res.data.filter(product => {return product.name.toLowerCase().includes(searchKey)})
-        }
+          dispatch({ type: 'GET_PRODUCTS_SUCCESS', payload: filteredProducts });
+      })
+      .catch(err => {
+          dispatch({ type: 'GET_PRODUCTS_FAILED' });
+      });
+};
 
-        if(sortKey !=='popular')
-        {
-            if(sortKey=='htl')
-            {
-                filteredproducts = res.data.sort((a,b)=>{
-                   
-                    return -a.price + b.price
-
-                })
-            }
-            else{
-                filteredproducts = res.data.sort((a,b)=>{
-                   
-                    return a.price - b.price
-
-                })
-
-            }
-        }
-
-        if(category!=='all')
-        {
-            filteredproducts = res.data.filter(product =>{return product.category.toLowerCase().includes(category)})
-        }
-
-        dispatch({type:'GET_PRODUCTS_SUCCESS' , payload : filteredproducts})
-
-
-
-    }).catch(err=>{
-        dispatch({type:'GET_PRODUCTS_FAILED'})
-    })
-
-
-}
 
 
 export const addProductReview = (review, productid) => (dispatch, getState) => {
