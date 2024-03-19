@@ -44,18 +44,13 @@ export const loginUser=(user)=>dispatch=>{
 }
 
 
-export const logoutUser = ()=>dispatch=>{
+export const logoutUser = () => (dispatch) => {
+    localStorage.removeItem('currentUser'); // Remove user-related data
+    // Do not remove cartItems from local storage
+    dispatch({ type: 'USER_LOGOUT' });
+    window.location.href = '/login';
+};
 
-   
-       localStorage.removeItem('currentUser')
-       localStorage.removeItem('cartItems')
-
-       dispatch({type : 'USER_LOGOUT'})
-
-       window.location.href='/login'
-
-
-}
 // userActions.js
 export const updateUser = (userId, updatedUser) => dispatch => {
    dispatch({ type: 'USER_UPDATE_REQUEST' });
