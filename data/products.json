@@ -1,10 +1,10 @@
 [
   {
-    "name": "short",
-    "price": "150",
+    "name": "RynoGear Shorts for Men Lightweight Stylish Shorts with Zipper Pocket",
+    "price": "699",
     "countInStock": "10",
-    "image": "https://contents.mediadecathlon.com/p2197356/20ec45d54c1ff25c1d2a554ad65cd203/p2197356.jpg",
-    "description": "good short ",
+    "image": "https://m.media-amazon.com/images/I/61qcEyvUzwL._SY741_.jpg",
+    "description": "Stylish & Comfortable - Made of premium material, RynoGear men’s athletic shorts offers maximum comfort, a more relaxed cut and an ultralight feel. These gym shorts for men are ergonomically designed with a 4-way stretch fabric.",
     "category": "fashion",
     "_id": "1709134105759",
     "reviews": [
@@ -16,5 +16,176 @@
       }
     ],
     "rating": 3
+  },
+  {
+    "name": "Colorplus Men's Pure Cotton Checks Pattern Tailored Fit Spread Collar Full Sleeve Casual Shirt",
+    "price": "1,349",
+    "countInStock": "8",
+    "image": "https://m.media-amazon.com/images/I/71yfgCc55JL._SX679_.jpg",
+    "description": "Casual shirt for men in checkered pattern ideal for partywear, casual and gifting occasions.",
+    "category": "fashion",
+    "_id": "1710857082863"
+  },
+  {
+    "name": "Jack & Jones Men's Regular Fit Mid-Rise Jeans",
+    "price": "879",
+    "countInStock": "10",
+    "image": "https://m.media-amazon.com/images/I/61HuXaAsFvL._SY741_.jpg",
+    "description": "Fabric Care Description :: 100% Cotton, Machine wash",
+    "category": "fashion",
+    "_id": "1710857659282"
+  },
+  {
+    "name": "SWORNOF Women's Lucknowi Chikankari Linen cotton Woven Sarees For Women with Blouse sarees for Women",
+    "price": "949",
+    "countInStock": "10",
+    "image": "https://m.media-amazon.com/images/I/41uF1XPtd0L.jpg",
+    "description": "Design : Lucknowi Chikankari Hand Weaving Work",
+    "category": "fashion",
+    "_id": "1710857831340"
+  },
+  {
+    "name": "Bacca Bucci Intensity with Breathable Engineered Fishnet Upper and TPU Rebounce Outsole for Daily Training Gyming and Running",
+    "price": "2,198",
+    "countInStock": "10",
+    "image": "https://m.media-amazon.com/images/I/71bR9W8vyvL._SY695_.jpg",
+    "description": "Unleash Your Potential: Bacca Bucci INTENSITY shoes are designed to fuel your workouts, gym sessions, and runs, helping you push boundaries and achieve your fitness goals.",
+    "category": "fashion",
+    "_id": "1710857947336"
+  },
+  {
+    "name": "HP Laptop 15s, 12th Gen Intel Core i3, 15.6-inch (39.6 cm), 8GB DDR4, 512GB SSD, Thin & Light, Dual Speakers (Win 11, MSO 2021, Silver, 1.69 kg), fq5007TU / FQ5327TU",
+    "price": "37,350",
+    "countInStock": "10",
+    "image": "https://m.media-amazon.com/images/I/71f2lQ3ESWL._SX522_.jpg",
+    "description": "Processor: Intel Core i3-1215U 12th Gen Processor, Upto 4.4 GHz speed",
+    "category": "Electronics",
+    "_id": "1710858079250"
+  },
+  {
+    "name": "Oneplus Bullets Z2 Bluetooth Wireless in Ear Earphones with Mic, Bombastic Bass - 12.4 mm Drivers, 10 Mins Charge - 20 Hrs Music, 30 Hrs Battery Life, IP55 Dust and Water Resistant (Magico Black)",
+    "price": "1,799",
+    "countInStock": "10",
+    "image": "https://m.media-amazon.com/images/I/51UhwaQXCpL._SX679_.jpg",
+    "description": "A quick 10-minute charge delivers up to 20 hours of immersive audio playback.",
+    "category": "Electronics",
+    "_id": "1710858181745"
+  },
+  {
+    "name": "boAt Flash Edition Smart Watch with Activity Tracker, Multiple Sports Modes, 1.3\" Screen, 170+ Watch Faces, Sleep Monitor, Gesture, Camera & Music Control, IP68 & 7 Days Battery Life(Lightning Black)",
+    "price": "1,099",
+    "countInStock": "10",
+    "image": "https://m.media-amazon.com/images/I/61hVGtfIXGL._SX679_.jpg",
+    "description": "1.3\"(33mm) LCD display with a round dial that sports complete capacitive and responsive touch interface for effortless control.;The health monitoring feature in the watch helps you keep a track of heart rate & blood oxygen levels.",
+    "category": "Electronics",
+    "_id": "1710858308427"
+  },
+  {
+    "name": "Dell 15 Laptop, Intel Core i3-1115G4 Processor/8GB DDR4/512GB SSD/Intel UHD Graphics/15.6\" (39.6cm) FHD 120Hz Refresh, 250 nits/Mobile Connect/Win 11+MSO'21/15 Month McAfee/Black/Thin & Light-1.66kg",
+    "price": "36,990",
+    "countInStock": "10",
+    "image": "https://m.media-amazon.com/images/I/61FEtj6cJcL._SX679_.jpg",
+    "description": "Processor: Intel Core i3-1115G4 11th Gen Processor, Upto 4.1 GHz speed",
+    "category": "Electronics",
+    "_id": "1710858384400"
+  },
+  {
+    "name": "Noise Buds X Prime in-Ear Truly Wireless Earbuds with 120H of Playtime, Quad Mic with ENC, Instacharge(10 min=200 min),Premium Dual Tone Finish, 11mm Driver, BT v5.3(Champagne White)",
+    "price": "1,799",
+    "countInStock": "10",
+    "image": "https://m.media-amazon.com/images/I/61L6IGbElZL._SX522_.jpg",
+    "description": "Up to 120-hour playtime: Unleash a sonic marathon with earbuds that defy the clock.",
+    "category": "Electronics",
+    "_id": "1710858468221"
+  },
+  {
+    "name": "Apple iPhone 15 (128 GB) - Blue",
+    "price": "71,290",
+    "countInStock": "10",
+    "image": "https://m.media-amazon.com/images/I/71d7rfSl0wL._SX679_.jpg",
+    "description": "DYNAMIC ISLAND COMES TO IPHONE 15 — Dynamic Island bubbles up alerts and Live Activities — so you don’t miss them while you’re doing something else. You can see who’s calling, track your next ride, check your flight status, and so much more.",
+    "category": "Mobiles",
+    "_id": "1710858568735"
+  },
+  {
+    "name": "iQOO Neo9 Pro 5G (Fiery Red, 12GB RAM, 256GB Storage) | Snapdragon 8 Gen 2 Processor | Supercomputing Chip Q1 | Flagship Level Sony IMX920 Camera",
+    "price": "39,999",
+    "countInStock": "10",
+    "image": "https://m.media-amazon.com/images/I/718jcIFYaAL._SX679_.jpg",
+    "description": "Flagship Level Performance - Snapdragon 8gen2 Mobile platform based on TSMC 4nm process with tri cluster architecture of 1+4+3 which is clocked at 3.2GHz.",
+    "category": "Mobiles",
+    "_id": "1710858647052"
+  },
+  {
+    "name": "OnePlus 11R 5G (Sonic Black, 8GB RAM, 128GB Storage)",
+    "price": "34,999",
+    "countInStock": "10",
+    "image": "https://m.media-amazon.com/images/I/61u9zN1HYCL._SX679_.jpg",
+    "description": "Camera: Sensor: 50MP Main Camera with Sony IMX890 (OIS supported), 8MP Ultrawide Camera (FOV: 120 degree) and Macro Lens; 16MP Front (Selfie) Camera with EIS support",
+    "category": "Mobiles",
+    "_id": "1710858730168"
+  },
+  {
+    "name": "Xiaomi 14 (White, 12GB RAM, 512GB Storage) | 50MP Leica Professional Optics | 120 Hz 1.5K LTPO AMOLED | SD 8 Gen 3 Hyper OS",
+    "price": "69,999",
+    "countInStock": "10",
+    "image": "https://m.media-amazon.com/images/I/711SMo2bL4L._SX679_.jpg",
+    "description": "50MP Leica professional optics helps in capture images in great detail. Light Fusion 900 image sensor with extremely high dynamic range for clear backlit shots. The 50MP Telephoto-Macro (75mm Leica portrait) and 50MP Ultra-wide lens enables you to capture in different perspectives. Xiaomi 14 can supports 8K video recording and also can record in Dolby Vision for a professional cinematography experience",
+    "category": "Mobiles",
+    "_id": "1710858791233"
+  },
+  {
+    "name": "V29 5G (128GB, Himalayan Blue) 8GB RAM",
+    "price": "31,999",
+    "countInStock": "10",
+    "image": "https://m.media-amazon.com/images/I/41BHcDrBBAL.jpg",
+    "description": "This phone features a streamlined 3D curved display with a seamless transition between the smooth and delicate curved surface and the frame. With a thickness of 0.746 cm (7.46 mm) , it offers visually appealing design and a comfortable grip.",
+    "category": "Mobiles",
+    "_id": "1710858846979"
+  },
+  {
+    "name": "BOOT BOY Foosball Table II 48' Indoor Table Football Game for Adults & Kids II Attractive 3D Football Themed Graphics II Strong & Sturdy Soccer Table II W/6 Balls",
+    "price": "16,299",
+    "countInStock": "10",
+    "image": "https://m.media-amazon.com/images/I/61Z+TzpPUwL._SX679_.jpg",
+    "description": "⚽️ Dimensions 48\" L X 24\" W X 32.5\" H : Makes a fun addition to your room or anywhere else you want to play in your home. This classic table foosball game can fully exercise the players' thinking ability and hand-eye coordination ability. Perfect for all kinds of people, whether kids or adults.",
+    "category": "Games",
+    "_id": "1710859031363"
+  },
+  {
+    "name": "RATNA'S Classic Strategy Game Little Snakes and Ladders with Ludo 2 In 1 for Young Businessman (Multicolour)",
+    "price": "125",
+    "countInStock": "10",
+    "image": "https://m.media-amazon.com/images/I/61B+X13q-5L._SX522_.jpg",
+    "description": "Ratnas presents Snakes & Ladders game. It is a 4 players Game. Creates excitement to come first. Great game to play with family and friends. Develops social skills and communication as it is a group activity.",
+    "category": "Games",
+    "_id": "1710859110342"
+  },
+  {
+    "name": "Ratna's Business JR. Coins 5 in 1 Board Game Set | Includes Games Like Business, Snake and Ladders, Ludo, Car Rally, and Cricket | Perfect for Kids & Adults 2-4 Players",
+    "price": "190",
+    "countInStock": "10",
+    "image": "https://m.media-amazon.com/images/I/71HJLQqk3bS._SX522_.jpg",
+    "description": "🎲 Multiple Games in One: The board game includes five different games to keep players entertained - Ratna's Business, snake and ladders, Ludo, car rally, and cricket.",
+    "category": "Games",
+    "_id": "1710859192344"
+  },
+  {
+    "name": "UNO Kid Mattel Games Uno Flip Side Card Game, Multi Color",
+    "price": "178",
+    "countInStock": "10",
+    "image": "https://m.media-amazon.com/images/I/817MubHY4ZL._SY879_.jpg",
+    "description": "Brace yourself for the next iteration of classic Uno: Uno flip; It's the matching game you know, plus exciting new twists like a double sided deck and special flip card that give classic gameplay a competitive edge",
+    "category": "Games",
+    "_id": "1710859344743"
+  },
+  {
+    "name": "Ratna's 3D Tic Tac Toe Classic Mind Challenging Cross & Zero Family Board Game for Kids & Adults",
+    "price": "143",
+    "countInStock": "10",
+    "image": "https://m.media-amazon.com/images/I/61ORsTtc0xL._SX522_.jpg",
+    "description": "It is a two players game, where X & O are placed alternately by each player. The player who first places three X or O in a horizontal, vertical or diagonal row wins the game.",
+    "category": "Games",
+    "_id": "1710859408060"
   }
 ]
